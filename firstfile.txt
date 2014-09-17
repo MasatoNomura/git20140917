@@ -4,4 +4,8 @@ first file にコメントを追記しました
 うううを追記
 えええを追記
 おおおを追記
+<<<<<<< HEAD
 かかかmasterを追記
+=======
+かかかをdevelopment追記
+>>>>>>> development
